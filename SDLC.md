@@ -1,0 +1,6 @@
+- Requirement Analysis → What the system should do.
+- Design → Database schema, functions, etc.
+- Implementation → Python code.
+- Testing → How you’ll check correctness.
+- Deployment → Repo link is the deployment.
+- Maintenance → Future updates.
